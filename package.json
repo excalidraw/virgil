@@ -5,6 +5,7 @@
     "prettier": "2.2.1"
   },
   "description": "Virgil: handwritten font that powers Excalidraw",
+  "license": "OFL-1.1 License",
   "name": "virgil",
   "prettier": "@excalidraw/prettier-config",
   "scripts": {
