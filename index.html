@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Virgil — The font that powers Excalidraw</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <style>
+      @font-face {
+        font-family: "Virgil";
+        src: url("Virgil.woff2");
+        font-display: swap;
+      }
+      body {
+        padding-bottom: 64px;
+      }
+      a {
+        text-decoration: none;
+        font-weight: 400;
+      }
+      h3 {
+        margin-top: 48px;
+        color: #adb5bd;
+      }
+      .virgil {
+        font-family: Virgil, var(--bs-font-sans-serif);
+      }
+      .example {
+        font-size: 1.6em;
+        font-family: Virgil, var(--bs-font-sans-serif);
+        margin: 16px 0;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container mt-5 text-center">
+      <h1 class="display-2 virgil">Virgil</h1>
+      <p class="lead mt-5">
+        The font that powers <a href="https://excalidraw.com">Excalidraw</a>,
+        created by Ellinor Rapp.
+      </p>
+      <p class="lead">
+        Get the latest from
+        <a href="https://github.com/excalidraw/virgil">GitHub</a>.
+      </p>
+
+      <h3>Latin</h3>
+      <p class="example">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</p>
+      <p class="example">a b c d e f g h i j k l m n o p q r s t u v w x y z</p>
+
+      <h3>Greek</h3>
+      <p class="example">Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω</p>
+      <p class="example">α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ ς τ υ φ χ ψ ω</p>
+
+      <h3>Cyrillic</h3>
+      <p class="example">
+        А Б В Г Д Е Ё Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я
+      </p>
+      <p class="example">
+        а б в г д е ё ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я
+      </p>
+
+      <h3>Numbers</h3>
+      <p class="example">0 1 2 3 4 5 6 7 8 9</p>
+      <h3>Symbols</h3>
+      <p class="example">
+        [ ] ( ) { } &lt; &gt; ? ! . , ; ' " ~ @ # $ € % ^ & + - * = / \
+      </p>
+    </div>
+  </body>
+</html>
