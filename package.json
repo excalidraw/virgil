@@ -2,7 +2,8 @@
   "author": "Ellinor Rapp",
   "dependencies": {
     "@excalidraw/prettier-config": "1.0.2",
-    "prettier": "2.2.1"
+    "prettier": "2.2.1",
+    "serve": "11.3.2"
   },
   "description": "Virgil: handwritten font that powers Excalidraw",
   "license": "OFL-1.1",
@@ -18,8 +19,5 @@
     "start": "serve .",
     "prettier": "prettier ."
   },
-  "version": "1.0.0",
-  "devDependencies": {
-    "serve": "^11.3.2"
-  }
+  "version": "1.0.0"
 }
