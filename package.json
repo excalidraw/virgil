@@ -15,7 +15,11 @@
     "lint": "yarn lint:files && yarn lint:font",
     "lint:files": "yarn prettier --list-different",
     "lint:font": "prettier src/Virgil.vfj --parser json --list-different",
+    "start": "serve .",
     "prettier": "prettier ."
   },
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
 }
