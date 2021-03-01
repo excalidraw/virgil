@@ -18,6 +18,11 @@
         src: url("Virgil.woff2");
         font-display: swap;
       }
+      *,
+      *:before,
+      *:after {
+        box-sizing: border-box;
+      }
       body {
         padding-bottom: 64px;
       }
@@ -44,6 +49,17 @@
         font-size: 1.8em;
         font-family: Virgil, var(--bs-font-sans-serif);
         margin: 16px 0;
+      }
+      .playground {
+        width: 600px;
+        max-width: 100%;
+        border-radius: 6px;
+        margin: 32px 0;
+        font-family: Virgil, var(--bs-font-sans-serif);
+        padding: 8px;
+        text-align: center;
+        font-size: 24px;
+        border: 2px solid var(--oc-green-6);
       }
       .btn {
         color: var(--oc-white);
@@ -86,6 +102,12 @@
         <a href="https://github.com/excalidraw/virgil/issues">GitHub</a>.
       </p>
 
+      <h3>Try it below</h3>
+      <p>
+        <textarea id="playground" class="playground" rows="4" autofocus>
+Pack my box with five dozen liquor jugs</textarea
+        >
+      </p>
       <p>
         <a
           class="github-button"
@@ -93,7 +115,7 @@
           data-size="large"
           data-show-count="true"
           aria-label="Star excalidraw/virgil on GitHub"
-          >Star</a
+          >Stars</a
         >
       </p>
 
