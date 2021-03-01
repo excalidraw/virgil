@@ -8,6 +8,10 @@
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css"
       rel="stylesheet"
     />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/open-color@1.8.0/open-color.css"
+    />
     <style>
       @font-face {
         font-family: "Virgil";
@@ -21,15 +25,23 @@
         text-decoration: none;
         font-weight: 400;
       }
+      h1 {
+        background-image: url(public/title.svg);
+        background-position: 50%;
+        background-repeat: no-repeat;
+        background-size: contain;
+        line-height: 3;
+        font-size: 4em;
+      }
       h3 {
         margin-top: 48px;
-        color: #adb5bd;
+        color: var(--oc-gray-6);
       }
       .virgil {
         font-family: Virgil, var(--bs-font-sans-serif);
       }
       .example {
-        font-size: 1.6em;
+        font-size: 1.8em;
         font-family: Virgil, var(--bs-font-sans-serif);
         margin: 16px 0;
       }
@@ -50,7 +62,7 @@
 
   <body>
     <div class="container mt-5 text-center">
-      <h1 class="display-2 virgil">Virgil</h1>
+      <h1 class="virgil">Virgil</h1>
       <p class="lead mt-5">
         The font that powers <a href="https://excalidraw.com">Excalidraw</a>,
         created by Ellinor Rapp.
