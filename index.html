@@ -161,5 +161,17 @@ Pack my box with five dozen liquor jugs</textarea
       </p>
     </div>
     <script async defer src="https://buttons.github.io/buttons.js"></script>
+    <script>
+      const playgroundElement = document.getElementById("playground");
+      const playgroundText = window.location.hash.slice(1);
+
+      if (playgroundText) {
+        playgroundElement.value = decodeURIComponent(playgroundText);
+      }
+
+      playgroundElement.addEventListener("input", (event) => {
+        window.location.hash = encodeURIComponent(event.target.value);
+      });
+    </script>
   </body>
 </html>
