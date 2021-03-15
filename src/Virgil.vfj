@@ -6,7 +6,6 @@
     "glyphs": [
       {
         "name": ".notdef",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -17,7 +16,6 @@
       {
         "name": ".null",
         "unicode": "0000",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -28,7 +26,6 @@
       {
         "name": "CR",
         "unicode": "000d",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -39,7 +36,6 @@
       {
         "name": "space",
         "unicode": "0020",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -50,7 +46,6 @@
       {
         "name": "exclam",
         "unicode": "0021",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -94,7 +89,6 @@
       {
         "name": "quotedbl",
         "unicode": "0022",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -168,7 +162,6 @@
       {
         "name": "numbersign",
         "unicode": "0023",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -286,7 +279,6 @@
       {
         "name": "dollar",
         "unicode": "0024",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -365,7 +357,6 @@
       {
         "name": "percent",
         "unicode": "0025",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -454,7 +445,6 @@
       {
         "name": "ampersand",
         "unicode": "0026",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -520,7 +510,6 @@
       {
         "name": "quotesingle",
         "unicode": "0027",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -563,7 +552,6 @@
       {
         "name": "parenleft",
         "unicode": "0028",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -620,7 +608,6 @@
       {
         "name": "parenright",
         "unicode": "0029",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -670,7 +657,6 @@
       {
         "name": "asterisk",
         "unicode": "002a",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -726,7 +712,6 @@
       {
         "name": "plus",
         "unicode": "002b",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -800,7 +785,6 @@
       {
         "name": "comma",
         "unicode": "002c",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -835,7 +819,6 @@
       {
         "name": "hyphen",
         "unicode": "002d",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -871,7 +854,6 @@
       {
         "name": "period",
         "unicode": "002e",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -910,7 +892,6 @@
       {
         "name": "slash",
         "unicode": "002f",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -945,7 +926,6 @@
       {
         "name": "zero",
         "unicode": "0030",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -995,7 +975,6 @@
       {
         "name": "one",
         "unicode": "0031",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -1046,7 +1025,6 @@
       {
         "name": "two",
         "unicode": "0032",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -1106,7 +1084,6 @@
       {
         "name": "three",
         "unicode": "0033",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -1163,7 +1140,6 @@
       {
         "name": "four",
         "unicode": "0034",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -1217,7 +1193,6 @@
       {
         "name": "five",
         "unicode": "0035",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -1294,7 +1269,6 @@
       {
         "name": "six",
         "unicode": "0036",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -1343,7 +1317,6 @@
       {
         "name": "seven",
         "unicode": "0037",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -1403,7 +1376,6 @@
       {
         "name": "eight",
         "unicode": "0038",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -1467,7 +1439,6 @@
       {
         "name": "nine",
         "unicode": "0039",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -1526,7 +1497,6 @@
       {
         "name": "colon",
         "unicode": "003a",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -1576,7 +1546,6 @@
       {
         "name": "semicolon",
         "unicode": "003b",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -1637,7 +1606,6 @@
       {
         "name": "less",
         "unicode": "003c",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -1677,7 +1645,6 @@
       {
         "name": "equal",
         "unicode": "003d",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -1761,7 +1728,6 @@
       {
         "name": "greater",
         "unicode": "003e",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -1810,7 +1776,6 @@
       {
         "name": "question",
         "unicode": "003f",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -1869,7 +1834,6 @@
       {
         "name": "at",
         "unicode": "0040",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -1948,7 +1912,6 @@
       {
         "name": "A",
         "unicode": "0041",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -2033,7 +1996,6 @@
       {
         "name": "B",
         "unicode": "0042",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -2117,7 +2079,6 @@
       {
         "name": "C",
         "unicode": "0043",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -2180,7 +2141,6 @@
       {
         "name": "D",
         "unicode": "0044",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -2254,7 +2214,6 @@
       {
         "name": "E",
         "unicode": "0045",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -2352,7 +2311,6 @@
       {
         "name": "F",
         "unicode": "0046",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -2418,7 +2376,6 @@
       {
         "name": "G",
         "unicode": "0047",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -2478,7 +2435,6 @@
       {
         "name": "H",
         "unicode": "0048",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -2561,7 +2517,6 @@
       {
         "name": "I",
         "unicode": "0049",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -2625,7 +2580,6 @@
       {
         "name": "J",
         "unicode": "004a",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -2701,7 +2655,6 @@
       {
         "name": "K",
         "unicode": "004b",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -2759,7 +2712,6 @@
       {
         "name": "L",
         "unicode": "004c",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -2811,7 +2763,6 @@
       {
         "name": "M",
         "unicode": "004d",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -2875,7 +2826,6 @@
       {
         "name": "N",
         "unicode": "004e",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -2941,7 +2891,6 @@
       {
         "name": "O",
         "unicode": "004f",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -2995,7 +2944,6 @@
       {
         "name": "P",
         "unicode": "0050",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -3062,7 +3010,6 @@
       {
         "name": "Q",
         "unicode": "0051",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -3127,7 +3074,6 @@
       {
         "name": "R",
         "unicode": "0052",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -3195,7 +3141,6 @@
       {
         "name": "S",
         "unicode": "0053",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -3262,7 +3207,6 @@
       {
         "name": "T",
         "unicode": "0054",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -3332,7 +3276,6 @@
       {
         "name": "U",
         "unicode": "0055",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -3381,7 +3324,6 @@
       {
         "name": "V",
         "unicode": "0056",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -3428,7 +3370,6 @@
       {
         "name": "W",
         "unicode": "0057",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -3509,7 +3450,6 @@
       {
         "name": "X",
         "unicode": "0058",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -3564,7 +3504,6 @@
       {
         "name": "Y",
         "unicode": "0059",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -3610,7 +3549,6 @@
       {
         "name": "Z",
         "unicode": "005a",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -3681,7 +3619,6 @@
       {
         "name": "bracketleft",
         "unicode": "005b",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -3758,7 +3695,6 @@
       {
         "name": "backslash",
         "unicode": "005c",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -3793,7 +3729,6 @@
       {
         "name": "bracketright",
         "unicode": "005d",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -3852,7 +3787,6 @@
       {
         "name": "asciicircum",
         "unicode": "005e",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -3889,7 +3823,6 @@
       {
         "name": "underscore",
         "unicode": "005f",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -3953,7 +3886,6 @@
       {
         "name": "grave",
         "unicode": "0060",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -3992,7 +3924,6 @@
       {
         "name": "a",
         "unicode": "0061",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -4046,7 +3977,6 @@
       {
         "name": "b",
         "unicode": "0062",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -4107,7 +4037,6 @@
       {
         "name": "c",
         "unicode": "0063",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -4150,7 +4079,6 @@
       {
         "name": "d",
         "unicode": "0064",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -4219,7 +4147,6 @@
       {
         "name": "e",
         "unicode": "0065",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -4290,7 +4217,6 @@
       {
         "name": "f",
         "unicode": "0066",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -4350,7 +4276,6 @@
       {
         "name": "g",
         "unicode": "0067",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -4407,7 +4332,6 @@
       {
         "name": "h",
         "unicode": "0068",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -4461,7 +4385,6 @@
       {
         "name": "i",
         "unicode": "0069",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -4506,7 +4429,6 @@
       {
         "name": "j",
         "unicode": "006a",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -4554,7 +4476,6 @@
       {
         "name": "k",
         "unicode": "006b",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -4616,7 +4537,6 @@
       {
         "name": "l",
         "unicode": "006c",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -4666,7 +4586,6 @@
       {
         "name": "m",
         "unicode": "006d",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -4732,7 +4651,6 @@
       {
         "name": "n",
         "unicode": "006e",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -4782,7 +4700,6 @@
       {
         "name": "o",
         "unicode": "006f",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -4829,7 +4746,6 @@
       {
         "name": "p",
         "unicode": "0070",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -4885,7 +4801,6 @@
       {
         "name": "q",
         "unicode": "0071",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -4941,7 +4856,6 @@
       {
         "name": "r",
         "unicode": "0072",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -4979,7 +4893,6 @@
       {
         "name": "s",
         "unicode": "0073",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -5035,7 +4948,6 @@
       {
         "name": "t",
         "unicode": "0074",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -5101,7 +5013,6 @@
       {
         "name": "u",
         "unicode": "0075",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -5150,7 +5061,6 @@
       {
         "name": "v",
         "unicode": "0076",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -5192,7 +5102,6 @@
       {
         "name": "w",
         "unicode": "0077",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -5247,7 +5156,6 @@
       {
         "name": "x",
         "unicode": "0078",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -5303,7 +5211,6 @@
       {
         "name": "y",
         "unicode": "0079",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -5351,7 +5258,6 @@
       {
         "name": "z",
         "unicode": "007a",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -5413,7 +5319,6 @@
       {
         "name": "braceleft",
         "unicode": "007b",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -5468,7 +5373,6 @@
       {
         "name": "bar",
         "unicode": "007c",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -5521,7 +5425,6 @@
       {
         "name": "braceright",
         "unicode": "007d",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -5582,7 +5485,6 @@
       {
         "name": "asciitilde",
         "unicode": "007e",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -5629,7 +5531,6 @@
       {
         "name": "exclamdown",
         "unicode": "00a1",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -5688,7 +5589,6 @@
       {
         "name": "cent",
         "unicode": "00a2",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -5772,7 +5672,6 @@
       {
         "name": "sterling",
         "unicode": "00a3",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -5875,7 +5774,6 @@
       {
         "name": "yen",
         "unicode": "00a5",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -5963,7 +5861,6 @@
       {
         "name": "brokenbar",
         "unicode": "00a6",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -6021,7 +5918,6 @@
       {
         "name": "dieresis",
         "unicode": "00a8",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -6080,7 +5976,6 @@
       {
         "name": "copyright",
         "unicode": "00a9",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -6139,7 +6034,6 @@
       {
         "name": "ordfeminine",
         "unicode": "00aa",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -6189,7 +6083,6 @@
       {
         "name": "guillemotleft",
         "unicode": "00ab",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -6276,7 +6169,6 @@
       {
         "name": "uni00AD",
         "unicode": "00ad",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -6328,7 +6220,6 @@
       {
         "name": "registered",
         "unicode": "00ae",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -6405,7 +6296,6 @@
       {
         "name": "macron",
         "unicode": "00af",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -6464,7 +6354,6 @@
       {
         "name": "degree",
         "unicode": "00b0",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -6516,7 +6405,6 @@
       {
         "name": "plusminus",
         "unicode": "00b1",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -6625,7 +6513,6 @@
       {
         "name": "twosuperior",
         "unicode": "00b2",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -6675,7 +6562,6 @@
       {
         "name": "threesuperior",
         "unicode": "00b3",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -6731,7 +6617,6 @@
       {
         "name": "acute",
         "unicode": "00b4",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -6763,7 +6648,6 @@
       {
         "name": "mu",
         "unicode": "00b5",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -6820,7 +6704,6 @@
       {
         "name": "periodcentered",
         "unicode": "00b7",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -6868,7 +6751,6 @@
       {
         "name": "cedilla",
         "unicode": "00b8",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -6912,7 +6794,6 @@
       {
         "name": "onesuperior",
         "unicode": "00b9",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -6955,7 +6836,6 @@
       {
         "name": "ordmasculine",
         "unicode": "00ba",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -7010,7 +6890,6 @@
       {
         "name": "guillemotright",
         "unicode": "00bb",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -7083,7 +6962,6 @@
       {
         "name": "onequarter",
         "unicode": "00bc",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -7202,7 +7080,6 @@
       {
         "name": "onehalf",
         "unicode": "00bd",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -7307,7 +7184,6 @@
       {
         "name": "threequarters",
         "unicode": "00be",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -7447,7 +7323,6 @@
       {
         "name": "questiondown",
         "unicode": "00bf",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -7512,7 +7387,6 @@
       {
         "name": "Agrave",
         "unicode": "00c0",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -7589,7 +7463,6 @@
       {
         "name": "Aacute",
         "unicode": "00c1",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -7654,7 +7527,6 @@
       {
         "name": "Acircumflex",
         "unicode": "00c2",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -7759,7 +7631,6 @@
       {
         "name": "Atilde",
         "unicode": "00c3",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -7864,7 +7735,6 @@
       {
         "name": "Adieresis",
         "unicode": "00c4",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -7966,7 +7836,6 @@
       {
         "name": "Aring",
         "unicode": "00c5",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -8074,7 +7943,6 @@
       {
         "name": "AE",
         "unicode": "00c6",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -8193,7 +8061,6 @@
       {
         "name": "Ccedilla",
         "unicode": "00c7",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -8267,7 +8134,6 @@
       {
         "name": "Egrave",
         "unicode": "00c8",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -8374,7 +8240,6 @@
       {
         "name": "Eacute",
         "unicode": "00c9",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -8484,7 +8349,6 @@
       {
         "name": "Ecircumflex",
         "unicode": "00ca",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -8614,7 +8478,6 @@
       {
         "name": "Edieresis",
         "unicode": "00cb",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -8761,7 +8624,6 @@
       {
         "name": "Igrave",
         "unicode": "00cc",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -8834,7 +8696,6 @@
       {
         "name": "Iacute",
         "unicode": "00cd",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -8938,7 +8799,6 @@
       {
         "name": "Icircumflex",
         "unicode": "00ce",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -9033,7 +8893,6 @@
       {
         "name": "Idieresis",
         "unicode": "00cf",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -9140,7 +8999,6 @@
       {
         "name": "Eth",
         "unicode": "00d0",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -9220,7 +9078,6 @@
       {
         "name": "Ntilde",
         "unicode": "00d1",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -9302,7 +9159,6 @@
       {
         "name": "Ograve",
         "unicode": "00d2",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -9376,7 +9232,6 @@
       {
         "name": "Oacute",
         "unicode": "00d3",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -9439,7 +9294,6 @@
       {
         "name": "Ocircumflex",
         "unicode": "00d4",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -9521,7 +9375,6 @@
       {
         "name": "Otilde",
         "unicode": "00d5",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -9603,7 +9456,6 @@
       {
         "name": "Odieresis",
         "unicode": "00d6",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -9697,7 +9549,6 @@
       {
         "name": "multiply",
         "unicode": "00d7",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -9768,7 +9619,6 @@
       {
         "name": "Oslash",
         "unicode": "00d8",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -9842,7 +9692,6 @@
       {
         "name": "Ugrave",
         "unicode": "00d9",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -9906,7 +9755,6 @@
       {
         "name": "Uacute",
         "unicode": "00da",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -9967,7 +9815,6 @@
       {
         "name": "Ucircumflex",
         "unicode": "00db",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -10043,7 +9890,6 @@
       {
         "name": "Udieresis",
         "unicode": "00dc",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -10126,7 +9972,6 @@
       {
         "name": "Yacute",
         "unicode": "00dd",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -10185,7 +10030,6 @@
       {
         "name": "Thorn",
         "unicode": "00de",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -10268,7 +10112,6 @@
       {
         "name": "germandbls",
         "unicode": "00df",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -10328,7 +10171,6 @@
       {
         "name": "agrave",
         "unicode": "00e0",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -10398,7 +10240,6 @@
       {
         "name": "aacute",
         "unicode": "00e1",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -10475,7 +10316,6 @@
       {
         "name": "acircumflex",
         "unicode": "00e2",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -10557,7 +10397,6 @@
       {
         "name": "atilde",
         "unicode": "00e3",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -10639,7 +10478,6 @@
       {
         "name": "adieresis",
         "unicode": "00e4",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -10728,7 +10566,6 @@
       {
         "name": "aring",
         "unicode": "00e5",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -10813,7 +10650,6 @@
       {
         "name": "ae",
         "unicode": "00e6",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -10903,7 +10739,6 @@
       {
         "name": "ccedilla",
         "unicode": "00e7",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -10960,7 +10795,6 @@
       {
         "name": "egrave",
         "unicode": "00e8",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -11042,7 +10876,6 @@
       {
         "name": "eacute",
         "unicode": "00e9",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -11113,7 +10946,6 @@
       {
         "name": "ecircumflex",
         "unicode": "00ea",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -11205,7 +11037,6 @@
       {
         "name": "edieresis",
         "unicode": "00eb",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -11309,7 +11140,6 @@
       {
         "name": "igrave",
         "unicode": "00ec",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -11377,7 +11207,6 @@
       {
         "name": "iacute",
         "unicode": "00ed",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -11439,7 +11268,6 @@
       {
         "name": "icircumflex",
         "unicode": "00ee",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -11501,7 +11329,6 @@
       {
         "name": "idieresis",
         "unicode": "00ef",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -11569,7 +11396,6 @@
       {
         "name": "eth",
         "unicode": "00f0",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -11632,7 +11458,6 @@
       {
         "name": "ntilde",
         "unicode": "00f1",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -11710,7 +11535,6 @@
       {
         "name": "ograve",
         "unicode": "00f2",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -11790,7 +11614,6 @@
       {
         "name": "oacute",
         "unicode": "00f3",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -11850,7 +11673,6 @@
       {
         "name": "ocircumflex",
         "unicode": "00f4",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -11925,7 +11747,6 @@
       {
         "name": "otilde",
         "unicode": "00f5",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -12000,7 +11821,6 @@
       {
         "name": "odieresis",
         "unicode": "00f6",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -12082,7 +11902,6 @@
       {
         "name": "divide",
         "unicode": "00f7",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -12179,7 +11998,6 @@
       {
         "name": "oslash",
         "unicode": "00f8",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -12255,7 +12073,6 @@
       {
         "name": "ugrave",
         "unicode": "00f9",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -12324,7 +12141,6 @@
       {
         "name": "uacute",
         "unicode": "00fa",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -12383,7 +12199,6 @@
       {
         "name": "ucircumflex",
         "unicode": "00fb",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -12455,7 +12270,6 @@
       {
         "name": "udieresis",
         "unicode": "00fc",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -12534,7 +12348,6 @@
       {
         "name": "yacute",
         "unicode": "00fd",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -12595,7 +12408,6 @@
       {
         "name": "thorn",
         "unicode": "00fe",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -12682,7 +12494,6 @@
       {
         "name": "ydieresis",
         "unicode": "00ff",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -12765,7 +12576,6 @@
       {
         "name": "Amacron",
         "unicode": "0100",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -12882,7 +12692,6 @@
       {
         "name": "amacron",
         "unicode": "0101",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -12971,7 +12780,6 @@
       {
         "name": "Abreve",
         "unicode": "0102",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -13067,7 +12875,6 @@
       {
         "name": "abreve",
         "unicode": "0103",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -13133,7 +12940,6 @@
       {
         "name": "Aogonek",
         "unicode": "0104",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -13222,7 +13028,6 @@
       {
         "name": "aogonek",
         "unicode": "0105",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -13280,7 +13085,6 @@
       {
         "name": "Cacute",
         "unicode": "0106",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -13357,7 +13161,6 @@
       {
         "name": "cacute",
         "unicode": "0107",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -13413,7 +13216,6 @@
       {
         "name": "Ccircumflex",
         "unicode": "0108",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -13503,7 +13305,6 @@
       {
         "name": "ccircumflex",
         "unicode": "0109",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -13574,7 +13375,6 @@
       {
         "name": "Cdotaccent",
         "unicode": "010a",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -13657,7 +13457,6 @@
       {
         "name": "cdotaccent",
         "unicode": "010b",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -13721,7 +13520,6 @@
       {
         "name": "Ccaron",
         "unicode": "010c",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -13806,7 +13604,6 @@
       {
         "name": "ccaron",
         "unicode": "010d",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -13870,7 +13667,6 @@
       {
         "name": "Dcaron",
         "unicode": "010e",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -13967,7 +13763,6 @@
       {
         "name": "dcaron",
         "unicode": "010f",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -14054,7 +13849,6 @@
       {
         "name": "Dcroat",
         "unicode": "0110",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -14163,7 +13957,6 @@
       {
         "name": "dcroat",
         "unicode": "0111",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -14248,7 +14041,6 @@
       {
         "name": "Emacron",
         "unicode": "0112",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -14385,7 +14177,6 @@
       {
         "name": "emacron",
         "unicode": "0113",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -14489,7 +14280,6 @@
       {
         "name": "Ebreve",
         "unicode": "0114",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -14605,7 +14395,6 @@
       {
         "name": "ebreve",
         "unicode": "0115",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -14688,7 +14477,6 @@
       {
         "name": "Edotaccent",
         "unicode": "0116",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -14811,7 +14599,6 @@
       {
         "name": "edotaccent",
         "unicode": "0117",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -14906,7 +14693,6 @@
       {
         "name": "Eogonek",
         "unicode": "0118",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -15005,7 +14791,6 @@
       {
         "name": "eogonek",
         "unicode": "0119",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -15076,7 +14861,6 @@
       {
         "name": "Ecaron",
         "unicode": "011a",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -15201,7 +14985,6 @@
       {
         "name": "ecaron",
         "unicode": "011b",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -15293,7 +15076,6 @@
       {
         "name": "Gcircumflex",
         "unicode": "011c",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -15381,7 +15163,6 @@
       {
         "name": "gcircumflex",
         "unicode": "011d",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -15464,7 +15245,6 @@
       {
         "name": "Gbreve",
         "unicode": "011e",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -15536,7 +15316,6 @@
       {
         "name": "gbreve",
         "unicode": "011f",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -15605,7 +15384,6 @@
       {
         "name": "Gdotaccent",
         "unicode": "0120",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -15686,7 +15464,6 @@
       {
         "name": "gdotaccent",
         "unicode": "0121",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -15762,7 +15539,6 @@
       {
         "name": "Gcommaaccent",
         "unicode": "0122",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -15845,7 +15621,6 @@
       {
         "name": "gcommaaccent",
         "unicode": "0123",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -15923,7 +15698,6 @@
       {
         "name": "Hcircumflex",
         "unicode": "0124",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -16027,7 +15801,6 @@
       {
         "name": "hcircumflex",
         "unicode": "0125",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -16107,7 +15880,6 @@
       {
         "name": "Hbar",
         "unicode": "0126",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -16225,7 +15997,6 @@
       {
         "name": "hbar",
         "unicode": "0127",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -16306,7 +16077,6 @@
       {
         "name": "Itilde",
         "unicode": "0128",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -16410,7 +16180,6 @@
       {
         "name": "itilde",
         "unicode": "0129",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -16480,7 +16249,6 @@
       {
         "name": "Imacron",
         "unicode": "012a",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -16582,7 +16350,6 @@
       {
         "name": "imacron",
         "unicode": "012b",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -16650,7 +16417,6 @@
       {
         "name": "Ibreve",
         "unicode": "012c",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -16731,7 +16497,6 @@
       {
         "name": "ibreve",
         "unicode": "012d",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -16785,7 +16550,6 @@
       {
         "name": "Iogonek",
         "unicode": "012e",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -16850,7 +16614,6 @@
       {
         "name": "iogonek",
         "unicode": "012f",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -16907,7 +16670,6 @@
       {
         "name": "Idotaccent",
         "unicode": "0130",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -16995,7 +16757,6 @@
       {
         "name": "dotlessi",
         "unicode": "0131",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -17028,7 +16789,6 @@
       {
         "name": "IJ",
         "unicode": "0132",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -17153,7 +16913,6 @@
       {
         "name": "ij",
         "unicode": "0133",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -17227,7 +16986,6 @@
       {
         "name": "Jcircumflex",
         "unicode": "0134",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -17300,7 +17058,6 @@
       {
         "name": "jcircumflex",
         "unicode": "0135",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -17365,7 +17122,6 @@
       {
         "name": "Kcommaaccent",
         "unicode": "0136",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -17446,7 +17202,6 @@
       {
         "name": "kcommaaccent",
         "unicode": "0137",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -17530,7 +17285,6 @@
       {
         "name": "Lacute",
         "unicode": "0139",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -17595,7 +17349,6 @@
       {
         "name": "lacute",
         "unicode": "013a",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -17658,7 +17411,6 @@
       {
         "name": "Lcommaaccent",
         "unicode": "013b",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -17726,7 +17478,6 @@
       {
         "name": "lcommaaccent",
         "unicode": "013c",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -17797,7 +17548,6 @@
       {
         "name": "Lcaron",
         "unicode": "013d",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -17870,7 +17620,6 @@
       {
         "name": "lcaron",
         "unicode": "013e",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -17928,7 +17677,6 @@
       {
         "name": "Ldot",
         "unicode": "013f",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -17997,7 +17745,6 @@
       {
         "name": "ldot",
         "unicode": "0140",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -18069,7 +17816,6 @@
       {
         "name": "Lslash",
         "unicode": "0141",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -18142,7 +17888,6 @@
       {
         "name": "lslash",
         "unicode": "0142",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -18211,7 +17956,6 @@
       {
         "name": "Nacute",
         "unicode": "0143",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -18285,7 +18029,6 @@
       {
         "name": "nacute",
         "unicode": "0144",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -18348,7 +18091,6 @@
       {
         "name": "Ncommaaccent",
         "unicode": "0145",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -18435,7 +18177,6 @@
       {
         "name": "ncommaaccent",
         "unicode": "0146",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -18501,7 +18242,6 @@
       {
         "name": "Ncaron",
         "unicode": "0147",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -18583,7 +18323,6 @@
       {
         "name": "ncaron",
         "unicode": "0148",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -18654,7 +18393,6 @@
       {
         "name": "napostrophe",
         "unicode": "0149",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -18727,7 +18465,6 @@
       {
         "name": "Omacron",
         "unicode": "014c",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -18821,7 +18558,6 @@
       {
         "name": "omacron",
         "unicode": "014d",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -18903,7 +18639,6 @@
       {
         "name": "Obreve",
         "unicode": "014e",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -18969,7 +18704,6 @@
       {
         "name": "obreve",
         "unicode": "014f",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -19028,7 +18762,6 @@
       {
         "name": "Ohungarumlaut",
         "unicode": "0150",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -19118,7 +18851,6 @@
       {
         "name": "ohungarumlaut",
         "unicode": "0151",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -19191,7 +18923,6 @@
       {
         "name": "OE",
         "unicode": "0152",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -19306,7 +19037,6 @@
       {
         "name": "oe",
         "unicode": "0153",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -19396,7 +19126,6 @@
       {
         "name": "Racute",
         "unicode": "0154",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -19478,7 +19207,6 @@
       {
         "name": "racute",
         "unicode": "0155",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -19529,7 +19257,6 @@
       {
         "name": "Rcommaaccent",
         "unicode": "0156",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -19619,7 +19346,6 @@
       {
         "name": "rcommaaccent",
         "unicode": "0157",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -19680,7 +19406,6 @@
       {
         "name": "Rcaron",
         "unicode": "0158",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -19770,7 +19495,6 @@
       {
         "name": "rcaron",
         "unicode": "0159",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -19829,7 +19553,6 @@
       {
         "name": "Sacute",
         "unicode": "015a",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -19904,7 +19627,6 @@
       {
         "name": "sacute",
         "unicode": "015b",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -19973,7 +19695,6 @@
       {
         "name": "Scircumflex",
         "unicode": "015c",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -20061,7 +19782,6 @@
       {
         "name": "scircumflex",
         "unicode": "015d",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -20143,7 +19863,6 @@
       {
         "name": "Scedilla",
         "unicode": "015e",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -20222,7 +19941,6 @@
       {
         "name": "scedilla",
         "unicode": "015f",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -20284,7 +20002,6 @@
       {
         "name": "Scaron",
         "unicode": "0160",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -20367,7 +20084,6 @@
       {
         "name": "scaron",
         "unicode": "0161",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -20444,7 +20160,6 @@
       {
         "name": "Tcommaaccent",
         "unicode": "0162",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -20530,7 +20245,6 @@
       {
         "name": "tcommaaccent",
         "unicode": "0163",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -20610,7 +20324,6 @@
       {
         "name": "Tcaron",
         "unicode": "0164",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -20696,7 +20409,6 @@
       {
         "name": "tcaron",
         "unicode": "0165",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -20768,7 +20480,6 @@
       {
         "name": "Tbar",
         "unicode": "0166",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -20859,7 +20570,6 @@
       {
         "name": "tbar",
         "unicode": "0167",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -20946,7 +20656,6 @@
       {
         "name": "Utilde",
         "unicode": "0168",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -21022,7 +20731,6 @@
       {
         "name": "utilde",
         "unicode": "0169",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -21094,7 +20802,6 @@
       {
         "name": "Umacron",
         "unicode": "016a",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -21177,7 +20884,6 @@
       {
         "name": "umacron",
         "unicode": "016b",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -21256,7 +20962,6 @@
       {
         "name": "Ubreve",
         "unicode": "016c",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -21316,7 +21021,6 @@
       {
         "name": "ubreve",
         "unicode": "016d",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -21372,7 +21076,6 @@
       {
         "name": "Uring",
         "unicode": "016e",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -21451,7 +21154,6 @@
       {
         "name": "uring",
         "unicode": "016f",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -21526,7 +21228,6 @@
       {
         "name": "Uhungarumlaut",
         "unicode": "0170",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -21600,7 +21301,6 @@
       {
         "name": "uhungarumlaut",
         "unicode": "0171",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -21670,7 +21370,6 @@
       {
         "name": "Uogonek",
         "unicode": "0172",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -21723,7 +21422,6 @@
       {
         "name": "uogonek",
         "unicode": "0173",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -21774,7 +21472,6 @@
       {
         "name": "Wcircumflex",
         "unicode": "0174",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -21881,7 +21578,6 @@
       {
         "name": "wcircumflex",
         "unicode": "0175",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -21964,7 +21660,6 @@
       {
         "name": "Ycircumflex",
         "unicode": "0176",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -22043,7 +21738,6 @@
       {
         "name": "ycircumflex",
         "unicode": "0177",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -22119,7 +21813,6 @@
       {
         "name": "Ydieresis",
         "unicode": "0178",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -22205,7 +21898,6 @@
       {
         "name": "Zacute",
         "unicode": "0179",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -22289,7 +21981,6 @@
       {
         "name": "zacute",
         "unicode": "017a",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -22364,7 +22055,6 @@
       {
         "name": "Zdotaccent",
         "unicode": "017b",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -22459,7 +22149,6 @@
       {
         "name": "zdotaccent",
         "unicode": "017c",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -22540,7 +22229,6 @@
       {
         "name": "Zcaron",
         "unicode": "017d",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -22637,7 +22325,6 @@
       {
         "name": "zcaron",
         "unicode": "017e",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -22720,7 +22407,6 @@
       {
         "name": "AEacute",
         "unicode": "01fc",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -22852,7 +22538,6 @@
       {
         "name": "aeacute",
         "unicode": "01fd",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -22955,7 +22640,6 @@
       {
         "name": "Oslashacute",
         "unicode": "01fe",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -23042,7 +22726,6 @@
       {
         "name": "oslashacute",
         "unicode": "01ff",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -23125,7 +22808,6 @@
       {
         "name": "Scommaaccent",
         "unicode": "0218",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -23213,7 +22895,6 @@
       {
         "name": "scommaaccent",
         "unicode": "0219",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -23290,7 +22971,6 @@
       {
         "name": "uni021A",
         "unicode": "021a",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -23376,7 +23056,6 @@
       {
         "name": "uni021B",
         "unicode": "021b",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -23456,7 +23135,6 @@
       {
         "name": "uni0237",
         "unicode": "0237",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -23493,7 +23171,6 @@
       {
         "name": "circumflex",
         "unicode": "02c6",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -23545,7 +23222,6 @@
       {
         "name": "caron",
         "unicode": "02c7",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -23585,7 +23261,6 @@
       {
         "name": "breve",
         "unicode": "02d8",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -23616,7 +23291,6 @@
       {
         "name": "dotaccent",
         "unicode": "02d9",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -23661,7 +23335,6 @@
       {
         "name": "ring",
         "unicode": "02da",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -23711,7 +23384,6 @@
       {
         "name": "ogonek",
         "unicode": "02db",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -23742,7 +23414,6 @@
       {
         "name": "tilde",
         "unicode": "02dc",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -23789,7 +23460,6 @@
       {
         "name": "hungarumlaut",
         "unicode": "02dd",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -23834,7 +23504,6 @@
       {
         "name": "tonos",
         "unicode": "0384",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -23879,7 +23548,6 @@
       {
         "name": "dieresistonos",
         "unicode": "0385",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -23957,7 +23625,6 @@
       {
         "name": "Alphatonos",
         "unicode": "0386",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -24041,7 +23708,6 @@
       {
         "name": "Epsilontonos",
         "unicode": "0388",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -24121,7 +23787,6 @@
       {
         "name": "Etatonos",
         "unicode": "0389",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -24192,7 +23857,6 @@
       {
         "name": "Iotatonos",
         "unicode": "038a",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -24271,7 +23935,6 @@
       {
         "name": "Omicrontonos",
         "unicode": "038c",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -24356,7 +24019,6 @@
       {
         "name": "Upsilontonos",
         "unicode": "038e",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -24437,7 +24099,6 @@
       {
         "name": "Omegatonos",
         "unicode": "038f",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -24534,7 +24195,6 @@
       {
         "name": "iotadieresistonos",
         "unicode": "0390",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -24635,7 +24295,6 @@
       {
         "name": "Alpha",
         "unicode": "0391",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -24719,7 +24378,6 @@
       {
         "name": "Beta",
         "unicode": "0392",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -24803,7 +24461,6 @@
       {
         "name": "Gamma",
         "unicode": "0393",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -24862,7 +24519,6 @@
       {
         "name": "Epsilon",
         "unicode": "0395",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -24960,7 +24616,6 @@
       {
         "name": "Zeta",
         "unicode": "0396",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -25031,7 +24686,6 @@
       {
         "name": "Eta",
         "unicode": "0397",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -25114,7 +24768,6 @@
       {
         "name": "Theta",
         "unicode": "0398",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -25227,7 +24880,6 @@
       {
         "name": "Iota",
         "unicode": "0399",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -25291,7 +24943,6 @@
       {
         "name": "Kappa",
         "unicode": "039a",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -25349,7 +25000,6 @@
       {
         "name": "Lambda",
         "unicode": "039b",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -25403,7 +25053,6 @@
       {
         "name": "Mu",
         "unicode": "039c",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -25467,7 +25116,6 @@
       {
         "name": "Nu",
         "unicode": "039d",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -25533,7 +25181,6 @@
       {
         "name": "Xi",
         "unicode": "039e",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -25631,7 +25278,6 @@
       {
         "name": "Omicron",
         "unicode": "039f",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -25685,7 +25331,6 @@
       {
         "name": "Pi",
         "unicode": "03a0",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -25783,7 +25428,6 @@
       {
         "name": "Rho",
         "unicode": "03a1",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -25850,7 +25494,6 @@
       {
         "name": "Sigma",
         "unicode": "03a3",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -25926,7 +25569,6 @@
       {
         "name": "Tau",
         "unicode": "03a4",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -25996,7 +25638,6 @@
       {
         "name": "Upsilon",
         "unicode": "03a5",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -26064,7 +25705,6 @@
       {
         "name": "Phi",
         "unicode": "03a6",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -26125,7 +25765,10 @@
                       ]
                     },
                     {
-                      "nodes": ["180 152", "181 151  181 151  182 151"]
+                      "nodes": [
+                        "180 152",
+                        "181 151  181 151  182 151"
+                      ]
                     }
                   ]
                 }
@@ -26169,7 +25812,6 @@
       {
         "name": "Chi",
         "unicode": "03a7",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -26224,7 +25866,6 @@
       {
         "name": "Psi",
         "unicode": "03a8",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -26321,7 +25962,6 @@
       {
         "name": "Iotadieresis",
         "unicode": "03aa",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -26414,7 +26054,6 @@
       {
         "name": "Upsilondieresis",
         "unicode": "03ab",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -26510,7 +26149,6 @@
       {
         "name": "alphatonos",
         "unicode": "03ac",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -26574,7 +26212,6 @@
       {
         "name": "epsilontonos",
         "unicode": "03ad",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -26648,7 +26285,6 @@
       {
         "name": "etatonos",
         "unicode": "03ae",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -26723,7 +26359,6 @@
       {
         "name": "iotatonos",
         "unicode": "03af",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -26791,7 +26426,6 @@
       {
         "name": "upsilondieresistonos",
         "unicode": "03b0",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -26901,7 +26535,6 @@
       {
         "name": "alpha",
         "unicode": "03b1",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -26957,7 +26590,6 @@
       {
         "name": "beta",
         "unicode": "03b2",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -27026,7 +26658,6 @@
       {
         "name": "gamma",
         "unicode": "03b3",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -27070,7 +26701,6 @@
       {
         "name": "delta",
         "unicode": "03b4",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -27138,7 +26768,6 @@
       {
         "name": "epsilon",
         "unicode": "03b5",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -27198,7 +26827,6 @@
       {
         "name": "zeta",
         "unicode": "03b6",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -27256,7 +26884,6 @@
       {
         "name": "eta",
         "unicode": "03b7",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -27317,7 +26944,6 @@
       {
         "name": "theta",
         "unicode": "03b8",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -27389,7 +27015,6 @@
       {
         "name": "iota",
         "unicode": "03b9",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -27448,7 +27073,6 @@
       {
         "name": "kappa",
         "unicode": "03ba",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -27517,7 +27141,6 @@
       {
         "name": "lambda",
         "unicode": "03bb",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -27574,7 +27197,6 @@
       {
         "name": "uni03BC",
         "unicode": "03bc",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -27631,7 +27253,6 @@
       {
         "name": "nu",
         "unicode": "03bd",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -27675,7 +27296,6 @@
       {
         "name": "xi",
         "unicode": "03be",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -27747,7 +27367,6 @@
       {
         "name": "omicron",
         "unicode": "03bf",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -27812,7 +27431,6 @@
       {
         "name": "pi",
         "unicode": "03c0",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -27870,7 +27488,6 @@
       {
         "name": "rho",
         "unicode": "03c1",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -27939,7 +27556,6 @@
       {
         "name": "sigma1",
         "unicode": "03c2",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -28004,7 +27620,6 @@
       {
         "name": "sigma",
         "unicode": "03c3",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -28071,7 +27686,6 @@
       {
         "name": "tau",
         "unicode": "03c4",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -28131,7 +27745,6 @@
       {
         "name": "upsilon",
         "unicode": "03c5",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -28194,7 +27807,6 @@
       {
         "name": "phi",
         "unicode": "03c6",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -28259,7 +27871,6 @@
       {
         "name": "chi",
         "unicode": "03c7",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -28318,7 +27929,6 @@
       {
         "name": "psi",
         "unicode": "03c8",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -28372,7 +27982,6 @@
       {
         "name": "omega",
         "unicode": "03c9",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -28436,7 +28045,6 @@
       {
         "name": "iotadieresis",
         "unicode": "03ca",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -28523,7 +28131,6 @@
       {
         "name": "upsilondieresis",
         "unicode": "03cb",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -28619,7 +28226,6 @@
       {
         "name": "omicrontonos",
         "unicode": "03cc",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -28698,7 +28304,6 @@
       {
         "name": "upsilontonos",
         "unicode": "03cd",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -28770,7 +28375,6 @@
       {
         "name": "omegatonos",
         "unicode": "03ce",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -28843,7 +28447,6 @@
       {
         "name": "afii10023",
         "unicode": "0401",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -28963,7 +28566,6 @@
       {
         "name": "afii10051",
         "unicode": "0402",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -29032,7 +28634,6 @@
       {
         "name": "afii10052",
         "unicode": "0403",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -29103,7 +28704,6 @@
       {
         "name": "afii10053",
         "unicode": "0404",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -29163,7 +28763,6 @@
       {
         "name": "afii10054",
         "unicode": "0405",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -29230,7 +28829,6 @@
       {
         "name": "afii10055",
         "unicode": "0406",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -29294,7 +28892,6 @@
       {
         "name": "afii10056",
         "unicode": "0407",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -29401,7 +28998,6 @@
       {
         "name": "afii10057",
         "unicode": "0408",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -29443,7 +29039,6 @@
       },
       {
         "name": "uni0408",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -29492,7 +29087,6 @@
       {
         "name": "afii10060",
         "unicode": "040b",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -29566,7 +29160,6 @@
       },
       {
         "name": "uni040C",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -29645,7 +29238,6 @@
       {
         "name": "afii10062",
         "unicode": "040e",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -29715,7 +29307,6 @@
       {
         "name": "afii10017",
         "unicode": "0410",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -29799,7 +29390,6 @@
       {
         "name": "afii10018",
         "unicode": "0411",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -29892,7 +29482,6 @@
       {
         "name": "afii10019",
         "unicode": "0412",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -29976,7 +29565,6 @@
       {
         "name": "afii10020",
         "unicode": "0413",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -30041,7 +29629,6 @@
       {
         "name": "afii10022",
         "unicode": "0415",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -30139,7 +29726,6 @@
       {
         "name": "afii10024",
         "unicode": "0416",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -30237,7 +29823,6 @@
       {
         "name": "afii10025",
         "unicode": "0417",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -30299,7 +29884,6 @@
       {
         "name": "afii10026",
         "unicode": "0418",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -30379,7 +29963,6 @@
       {
         "name": "afii10027",
         "unicode": "0419",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -30483,7 +30066,6 @@
       {
         "name": "afii10028",
         "unicode": "041a",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -30541,7 +30123,6 @@
       {
         "name": "afii10029",
         "unicode": "041b",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -30595,7 +30176,6 @@
       {
         "name": "afii10030",
         "unicode": "041c",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -30659,7 +30239,6 @@
       {
         "name": "afii10031",
         "unicode": "041d",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -30742,7 +30321,6 @@
       {
         "name": "afii10032",
         "unicode": "041e",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -30796,7 +30374,6 @@
       {
         "name": "afii10033",
         "unicode": "041f",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -30879,7 +30456,6 @@
       {
         "name": "afii10034",
         "unicode": "0420",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -30946,7 +30522,6 @@
       {
         "name": "afii10035",
         "unicode": "0421",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -31009,7 +30584,6 @@
       {
         "name": "afii10036",
         "unicode": "0422",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -31079,7 +30653,6 @@
       {
         "name": "afii10037",
         "unicode": "0423",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -31142,7 +30715,6 @@
       {
         "name": "afii10038",
         "unicode": "0424",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -31228,7 +30800,6 @@
       {
         "name": "afii10039",
         "unicode": "0425",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -31283,7 +30854,6 @@
       {
         "name": "afii10040",
         "unicode": "0426",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -31360,7 +30930,6 @@
       {
         "name": "afii10041",
         "unicode": "0427",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -31401,7 +30970,11 @@
                       ]
                     },
                     {
-                      "nodes": ["503 -46", "504 -45", "503 -45  503 -46 c"]
+                      "nodes": [
+                        "503 -46",
+                        "504 -45",
+                        "503 -45  503 -46 c"
+                      ]
                     }
                   ]
                 }
@@ -31435,7 +31008,6 @@
       {
         "name": "afii10042",
         "unicode": "0428",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -31530,7 +31102,6 @@
       {
         "name": "afii10043",
         "unicode": "0429",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -31623,7 +31194,6 @@
       {
         "name": "afii10044",
         "unicode": "042a",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -31707,7 +31277,6 @@
       {
         "name": "afii10045",
         "unicode": "042b",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -31832,7 +31401,6 @@
       {
         "name": "afii10046",
         "unicode": "042c",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -31898,7 +31466,6 @@
       {
         "name": "afii10047",
         "unicode": "042d",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -31964,7 +31531,6 @@
       {
         "name": "afii10048",
         "unicode": "042e",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -32053,7 +31619,6 @@
       {
         "name": "afii10049",
         "unicode": "042f",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -32140,7 +31705,6 @@
       {
         "name": "afii10065",
         "unicode": "0430",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -32209,7 +31773,6 @@
       {
         "name": "afii10066",
         "unicode": "0431",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -32271,7 +31834,6 @@
       {
         "name": "afii10067",
         "unicode": "0432",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -32348,7 +31910,6 @@
       {
         "name": "afii10068",
         "unicode": "0433",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -32410,7 +31971,6 @@
       {
         "name": "afii10070",
         "unicode": "0435",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -32468,7 +32028,6 @@
       {
         "name": "afii10072",
         "unicode": "0436",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -32571,7 +32130,6 @@
       {
         "name": "afii10073",
         "unicode": "0437",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -32638,7 +32196,6 @@
       {
         "name": "afii10074",
         "unicode": "0438",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -32712,7 +32269,6 @@
       {
         "name": "afii10075",
         "unicode": "0439",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -32808,7 +32364,6 @@
       {
         "name": "afii10076",
         "unicode": "043a",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -32877,7 +32432,6 @@
       {
         "name": "afii10077",
         "unicode": "043b",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -32927,7 +32481,6 @@
       {
         "name": "afii10078",
         "unicode": "043c",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -32991,7 +32544,6 @@
       {
         "name": "afii10079",
         "unicode": "043d",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -33076,7 +32628,6 @@
       {
         "name": "afii10080",
         "unicode": "043e",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -33146,7 +32697,6 @@
       {
         "name": "afii10081",
         "unicode": "043f",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -33213,7 +32763,6 @@
       {
         "name": "afii10082",
         "unicode": "0440",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -33287,7 +32836,6 @@
       {
         "name": "afii10083",
         "unicode": "0441",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -33349,7 +32897,6 @@
       {
         "name": "afii10084",
         "unicode": "0442",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -33422,7 +32969,6 @@
       {
         "name": "afii10085",
         "unicode": "0443",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -33488,7 +33034,6 @@
       {
         "name": "afii10086",
         "unicode": "0444",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -33567,7 +33112,6 @@
       {
         "name": "afii10087",
         "unicode": "0445",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -33631,7 +33175,6 @@
       {
         "name": "afii10088",
         "unicode": "0446",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -33701,7 +33244,6 @@
       {
         "name": "afii10089",
         "unicode": "0447",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -33765,7 +33307,6 @@
       {
         "name": "afii10090",
         "unicode": "0448",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -33867,7 +33408,6 @@
       {
         "name": "afii10091",
         "unicode": "0449",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -33975,7 +33515,6 @@
       {
         "name": "afii10092",
         "unicode": "044a",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -34074,7 +33613,6 @@
       {
         "name": "afii10093",
         "unicode": "044b",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -34173,7 +33711,6 @@
       {
         "name": "afii10094",
         "unicode": "044c",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -34242,7 +33779,6 @@
       {
         "name": "afii10095",
         "unicode": "044d",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -34298,7 +33834,6 @@
       {
         "name": "afii10096",
         "unicode": "044e",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -34374,7 +33909,6 @@
       {
         "name": "afii10097",
         "unicode": "044f",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -34477,7 +34011,6 @@
       {
         "name": "afii10071",
         "unicode": "0451",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -34557,7 +34090,6 @@
       {
         "name": "afii10100",
         "unicode": "0453",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -34635,7 +34167,6 @@
       {
         "name": "afii10101",
         "unicode": "0454",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -34686,7 +34217,6 @@
       {
         "name": "afii10102",
         "unicode": "0455",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -34753,7 +34283,6 @@
       {
         "name": "afii10103",
         "unicode": "0456",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -34798,7 +34327,6 @@
       {
         "name": "afii10104",
         "unicode": "0457",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -34866,7 +34394,6 @@
       {
         "name": "afii10105",
         "unicode": "0458",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -34914,7 +34441,6 @@
       {
         "name": "afii10109",
         "unicode": "045c",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -34991,7 +34517,6 @@
       {
         "name": "afii10110",
         "unicode": "045e",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -35072,7 +34597,6 @@
       {
         "name": "afii10146",
         "unicode": "0462",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -35150,7 +34674,6 @@
       {
         "name": "afii10050",
         "unicode": "0490",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -35218,7 +34741,6 @@
       {
         "name": "afii10098",
         "unicode": "0491",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -35279,7 +34801,6 @@
       {
         "name": "uni04E6",
         "unicode": "04e6",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -35373,7 +34894,6 @@
       {
         "name": "uni04E7",
         "unicode": "04e7",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -35455,7 +34975,6 @@
       {
         "name": "Wgrave",
         "unicode": "1e80",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -35554,7 +35073,6 @@
       {
         "name": "wgrave",
         "unicode": "1e81",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -35629,7 +35147,6 @@
       {
         "name": "Wacute",
         "unicode": "1e82",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -35723,7 +35240,6 @@
       {
         "name": "wacute",
         "unicode": "1e83",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -35791,7 +35307,6 @@
       {
         "name": "Wdieresis",
         "unicode": "1e84",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -35905,7 +35420,6 @@
       {
         "name": "wdieresis",
         "unicode": "1e85",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -35995,7 +35509,6 @@
       {
         "name": "Ygrave",
         "unicode": "1ef2",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -36061,7 +35574,6 @@
       {
         "name": "ygrave",
         "unicode": "1ef3",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -36129,7 +35641,6 @@
       {
         "name": "endash",
         "unicode": "2013",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -36196,7 +35707,6 @@
       {
         "name": "emdash",
         "unicode": "2014",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -36260,7 +35770,6 @@
       {
         "name": "quoteleft",
         "unicode": "2018",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -36301,7 +35810,6 @@
       {
         "name": "quoteright",
         "unicode": "2019",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -36340,7 +35848,6 @@
       {
         "name": "quotesinglbase",
         "unicode": "201a",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -36375,7 +35882,6 @@
       {
         "name": "quotedblleft",
         "unicode": "201c",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -36443,7 +35949,6 @@
       {
         "name": "quotedblright",
         "unicode": "201d",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -36507,7 +36012,6 @@
       {
         "name": "quotedblbase",
         "unicode": "201e",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -36567,7 +36071,6 @@
       {
         "name": "bullet",
         "unicode": "2022",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -36598,7 +36101,6 @@
       {
         "name": "onedotenleader",
         "unicode": "2024",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -36637,7 +36139,6 @@
       {
         "name": "twodotenleader",
         "unicode": "2025",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -36689,7 +36190,6 @@
       {
         "name": "ellipsis",
         "unicode": "2026",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -36768,7 +36268,6 @@
       {
         "name": "perthousand",
         "unicode": "2030",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -36878,7 +36377,6 @@
       {
         "name": "guilsinglleft",
         "unicode": "2039",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -36917,7 +36415,6 @@
       {
         "name": "guilsinglright",
         "unicode": "203a",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -36954,7 +36451,6 @@
       {
         "name": "Euro",
         "unicode": "20ac",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -37044,7 +36540,6 @@
       {
         "name": "trademark",
         "unicode": "2122",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -37139,7 +36634,6 @@
       {
         "name": "Omega",
         "unicode": "2126",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -37212,7 +36706,6 @@
       {
         "name": "Delta",
         "unicode": "2206",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -37271,7 +36764,6 @@
       {
         "name": "summation",
         "unicode": "2211",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -37347,7 +36839,6 @@
       {
         "name": "minus",
         "unicode": "2212",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -37399,7 +36890,6 @@
       {
         "name": "uniF6C3",
         "unicode": "f6c3",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -37440,7 +36930,6 @@
       },
       {
         "name": "uni00AD.001",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -37496,7 +36985,6 @@
       {
         "name": "afii10061",
         "unicode": "040c",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -37575,7 +37063,6 @@
       },
       {
         "name": "Kcommaaccent.alt",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -37660,7 +37147,6 @@
       },
       {
         "name": "K.alt",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -37728,7 +37214,6 @@
       },
       {
         "name": "c_t",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -37816,7 +37301,6 @@
       {
         "name": "afii10069",
         "unicode": "0434",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -37878,7 +37362,6 @@
       {
         "name": "uni04D8",
         "unicode": "04d8",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -37957,7 +37440,6 @@
       {
         "name": "afii10846",
         "unicode": "04d9",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -38008,7 +37490,6 @@
       {
         "name": "afii10058",
         "unicode": "0409",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -38084,7 +37565,6 @@
       {
         "name": "afii10106",
         "unicode": "0459",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -38153,7 +37633,6 @@
       {
         "name": "afii10059",
         "unicode": "040a",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -38248,7 +37727,6 @@
       {
         "name": "afii10107",
         "unicode": "045a",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -38339,7 +37817,6 @@
       {
         "name": "afii10145",
         "unicode": "040f",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -38403,7 +37880,6 @@
       {
         "name": "afii10193",
         "unicode": "045f",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -38467,7 +37943,6 @@
       {
         "name": "afii10108",
         "unicode": "045b",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -38532,7 +38007,6 @@
       {
         "name": "afii10099",
         "unicode": "0452",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",
@@ -38604,7 +38078,6 @@
       {
         "name": "afii10021",
         "unicode": "0414",
-        "lastModified": "2021-03-14 19:09:34",
         "layers": [
           {
             "name": "Regular",

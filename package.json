@@ -9,6 +9,7 @@
   "name": "virgil",
   "prettier": "@excalidraw/prettier-config",
   "scripts": {
+    "cleanup": "node script/cleanup.js",
     "fix": "yarn fix:files && yarn fix:font",
     "fix:files": "yarn prettier --write",
     "fix:font": "prettier src/Virgil.vfj --parser json --write",
