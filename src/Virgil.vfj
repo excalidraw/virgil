@@ -41375,6 +41375,7 @@
             "HintingMaxV":250,
             "HintingMinH":20,
             "HintingMinV":20,
+            "OS2UseTypoMetrics":0,
             "ProcessLoops":false,
             "TtHinter":1,
             "TtHorizSmoothing":0,
