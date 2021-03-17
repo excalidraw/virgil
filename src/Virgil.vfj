@@ -41375,12 +41375,11 @@
             "HintingMaxV":250,
             "HintingMinH":20,
             "HintingMinV":20,
-            "OS2UseTypoMetrics":false,
             "ProcessLoops":false,
             "TtHinter":1,
             "TtHorizSmoothing":0,
             "TtNoSmoothing":0,
-            "TtaFamilyAlign":false,
+            "TtaFamilyAlign":0,
             "TtaHintComposites":true,
             "TtaHintingLimit":200,
             "TtaHintingRangeMax":50,
@@ -41579,6 +41578,6 @@
         }
       }
     ],
-    "searchStorage":""
+    "expressionsUpdated":true
   }
 }
