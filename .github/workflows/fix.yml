@@ -1,4 +1,4 @@
-name: Fix
+name: Fix formatting
 
 on:
   push:
