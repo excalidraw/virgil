@@ -14,7 +14,7 @@ jobs:
         run: yarn fix
       - name: Commit changes
         run: |
-          FILE_CHANGED=$(git diff src/Virgil.vfj)
+          FILE_CHANGED=$(git diff)
           if [ ! -z "${FILE_CHANGED}" ]; then
             git config --global user.name 'Excalidraw Bot'
             git config --global user.email 'bot@excalidraw.com'
