@@ -2,22 +2,19 @@ name: Fix formatting
 
 on:
   push:
-    branches:
-      - main
-  pull_request:
 
 jobs:
   fix:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Install and fix
-        run: |
-          yarn --frozen-lockfile
-          yarn fix
+      - name: Install
+        run: yarn --frozen-lockfile
+      - name: Fix all files
+        run: yarn fix
       - name: Commit changes
         run: |
-          FILE_CHANGED=$(git diff src/Virgil.vfj)
+          FILE_CHANGED=$(git diff)
           if [ ! -z "${FILE_CHANGED}" ]; then
             git config --global user.name 'Excalidraw Bot'
             git config --global user.email 'bot@excalidraw.com'
