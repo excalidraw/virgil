@@ -14,5 +14,5 @@ for (let glyph of virgil.font.glyphs) {
   }
 }
 
-let data = JSON.stringify(virgil, null, 2);
+let data =   JSON.stringify(virgil, null, 2);
 fs.writeFileSync(SOURCE, data);
