@@ -2,8 +2,6 @@ name: Fix formatting
 
 on:
   push:
-    branches:
-      - main
   pull_request:
 
 jobs:
