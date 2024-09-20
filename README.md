@@ -1,8 +1,6 @@
 # Virgil
 
-The original font of [Excalidraw](https://excalidraw.com) created by Ellinor Rapp.
-Now replaced by [Excalifont](https://plus.excalidraw.com/excalifont).
-
+The original font of [Excalidraw](https://excalidraw.com) created by Ellinor Rapp. Now replaced by [Excalifont](https://plus.excalidraw.com/excalifont).
 
 ## FontLab
 
