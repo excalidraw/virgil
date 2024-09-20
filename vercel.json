@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://plus.excalidraw.com/virgil",
+      "permanent": true
+    }
+  ]
+}
